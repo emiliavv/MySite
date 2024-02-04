@@ -130,7 +130,7 @@ img {
 @media (max-width: 450px) {
 
     .main {
-        margin: 10px 50px;
+        margin: 10px 10px;
     }
     
     .main .main-text {
