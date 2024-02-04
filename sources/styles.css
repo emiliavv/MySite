@@ -146,6 +146,11 @@ img {
         grid-template-columns: 300px;
     }
 
+    .project {
+        display: block;
+        margin: 0 auto;
+    }
+
     .text {
         text-align: center;
     }
